@@ -50,7 +50,7 @@ a {
 }
 
 body {
-  background-image: url("./assets/crime1.jpg");
+  background-image: url("../../public/crime1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   font-family: Arial, sans-serif;
